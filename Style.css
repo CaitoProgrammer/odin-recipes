@@ -1,25 +1,31 @@
-
 body {
-    background-color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    display: flex;
-    justify-content: space-around;
-    color: gray;
+    background-image: url(/Imagenes/freshvegetablesAlexRaths-4c1ea186a88e4fd7b95283eee614600c.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
 }
-h1 {
-    text-transform: capitalize;
-color: white;
-justify-content:center;
-text-size-adjust: 200px;
+.indicio {
+    border-radius: 15px;
+    background-color:lemonchiffon;
+    width: 350px;
+    text-align:left;
+    color: darkslategray;
+    text-shadow: white 1px 0 10px;
+}
+.indicio.p {
+    color: black;
+}
+.recipelist {
+    border-radius: 15px;
+    text-shadow: black 1px 0 10px;
+    background-color: black;
+    width: 150px;
+    color: white;
 }
 h2 {
-    
     color: white;
 }
 a {
-    color: black;
-    background-color: gray;
-}
-p {
-    justify-content: safe;
+    color: white
+    ;
 }
