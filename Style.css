@@ -1,3 +1,25 @@
-body.matecito {
-    background-color: darkolivegreen;
+
+body {
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+}
+h1 {
+    text-transform: capitalize;
+color: white;
+justify-content:center;
+text-size-adjust: 200px;
+}
+h2 {
+    
+    color: white;
+}
+a {
+    color: black;
+    background-color: gray;
+}
+p {
+    justify-content: safe;
 }

@@ -1,0 +1,27 @@
+body {
+    justify-content:space-between;
+    display: flexbox;
+    background-color: darkolivegreen;
+}
+img {
+    height: 300px;
+    width: 420px;
+    border-radius: 15px;
+    box-shadow: -7px -4px 32px 1px rgba(0,0,0,0.75);
+}
+h1 {
+    color: white;
+}
+h2 {
+    display: right;
+    color: white;
+}
+ul { 
+    display:list-item;
+}
+ol {
+    display:list-item;
+}
+li {
+    display:list-item;
+}
