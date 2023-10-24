@@ -1,7 +1,17 @@
 body {
-    background-color: rgb(212, 49, 49);
-    color: black;
+    background-color: black;
 }
-h1 {
+.cheeseburger {
+    background-image: url(/Imagenes/burger_1.jpg);
+    height: 160vh;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.french {
+    background-image: url(/Imagenes/iStock-647133812.jpg);
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
     color: white;
 }

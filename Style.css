@@ -6,20 +6,22 @@ body {
 }
 .indicio {
     border-radius: 15px;
-    background-color:lemonchiffon;
-    width: 350px;
+    width: 360px;
+    height: 125px;
     text-align:left;
-    color: darkslategray;
-    text-shadow: white 1px 0 10px;
+    color: white;
+    box-shadow: 11px 10px 5px -1px rgba(0,0,0,0.75);
+    background-color: hsla(100, 100%, 0%, 0.4);
 }
 .indicio.p {
     color: black;
 }
 .recipelist {
+    box-shadow: 11px 10px 5px -1px rgba(0,0,0,0.75);
+    background-color: hsla(100, 100%, 0%, 0.4);
     border-radius: 15px;
-    text-shadow: black 1px 0 10px;
-    background-color: black;
-    width: 150px;
+    width: 360px;
+    height: 125px;
     color: white;
 }
 h2 {
@@ -28,4 +30,10 @@ h2 {
 a {
     color: white
     ;
+}
+.linkindbr:hover {
+    color: darksalmon;
+}
+.linkindmt:hover {
+    color: greenyellow;
 }
